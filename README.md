@@ -6,6 +6,7 @@ build basic instructure of chatbot
 2018.4.5  
 v1.2  
 combine the chatbot with lex, making it more intelligent  
+
 DiningConcierge:  
 This lambda function handle the intent and get the dining information from user. Then it pushes information to SQS.  
 
